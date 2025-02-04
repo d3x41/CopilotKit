@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@copilotkit/react-core": "1.5.0",
+    "@copilotkit/react-core": "1.5.11",
     "@copilotkit/react-ui": "1.5.0",
     "@copilotkit/runtime": "1.5.0",
     "@copilotkit/runtime-client-gql": "1.5.0",
